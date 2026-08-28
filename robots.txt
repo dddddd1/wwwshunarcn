@@ -2,5 +2,5 @@ User-agent: *
 Allow: /
 Allow: /zb_users/upload/
 
-Sitemap: http://www.shunar.cn/sitemap.xml
-Sitemap: http://www.shunar.cn/sitemap-images.xml
+Sitemap: https://www.shunar.cn/sitemap.xml
+Sitemap: https://www.shunar.cn/sitemap-images.xml

@@ -81,7 +81,7 @@ def submit_sitemap():
         if not os.path.exists(p):
             print(f"[跳过] {name} 不存在")
             continue
-        url = f"http://www.shunar.cn/{name}"
+        url = f"https://www.shunar.cn/{name}"
         print(f"[提交] {url}")
         resp = _post(SITEMAP_API, url)
         print(f"[百度返回] {resp}")
