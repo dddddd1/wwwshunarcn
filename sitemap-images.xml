@@ -5,10 +5,57 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
-      <image:title>金刚石选型机</image:title>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-separator.jpg</image:loc>
+      <image:title>氧化锆球分离机</image:title>
+      <image:caption>氧化锆球分离机现场图</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-separator-2.jpg</image:loc>
+      <image:title>氧化锆球分离设备</image:title>
+      <image:caption>氧化锆球分离设备细节</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-screening-machine.jpg</image:loc>
+      <image:title>氧化锆球筛选机</image:title>
+      <image:caption>氧化锆球筛选机设备照片</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-sorting-machine.jpg</image:loc>
+      <image:title>氧化锆球分选机</image:title>
+      <image:caption>氧化锆球分选机工作实拍</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/ceramic-ball-screening-machine.jpg</image:loc>
+      <image:title>陶瓷球筛选机</image:title>
+      <image:caption>陶瓷球筛选机</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/ceramic-ball-sifting-machine.jpg</image:loc>
+      <image:title>陶瓷球筛分机</image:title>
+      <image:caption>陶瓷球筛分机</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/ceramic-bead-screening-machine.jpg</image:loc>
+      <image:title>陶瓷微珠筛选机</image:title>
+      <image:caption>陶瓷微珠筛选机产品图</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/ceramic-bead-sorting-machine-delivery.jpg</image:loc>
+      <image:title>陶瓷微珠分选机发货</image:title>
+      <image:caption>陶瓷微珠分选机发货现场</image:caption>
     </image:image>
   </url>
   <url>
@@ -16,27 +63,86 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/3.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-separator.jpg</image:loc>
-      <image:title>金刚石选型机</image:title>
+      <image:title>氧化锆球分离机</image:title>
+      <image:caption>氧化锆球分离机现场图</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-sorting-machine.jpg</image:loc>
+      <image:title>氧化锆球分选机</image:title>
+      <image:caption>氧化锆球分选机工作实拍</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-separator-2.jpg</image:loc>
+      <image:title>氧化锆球分离设备</image:title>
+      <image:caption>氧化锆球分离设备细节</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-screening-machine.jpg</image:loc>
+      <image:title>氧化锆球筛选机</image:title>
+      <image:caption>氧化锆球筛选机设备照片</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/4.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-sorting-machine.jpg</image:loc>
-      <image:title>金刚石选型机</image:title>
+      <image:title>氧化锆球分选机</image:title>
+      <image:caption>氧化锆球分选机工作实拍</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-separator-2.jpg</image:loc>
+      <image:title>氧化锆球分离设备</image:title>
+      <image:caption>氧化锆球分离设备细节</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-screening-machine.jpg</image:loc>
+      <image:title>氧化锆球筛选机</image:title>
+      <image:caption>氧化锆球筛选机设备照片</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-separator.jpg</image:loc>
+      <image:title>氧化锆球分离机</image:title>
+      <image:caption>氧化锆球分离机现场图</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/5.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-screening-machine.jpg</image:loc>
+      <image:title>氧化锆球筛选机</image:title>
+      <image:caption>氧化锆球筛选机设备照片</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
     </image:image>
   </url>
   <url>
@@ -44,6 +150,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -51,6 +168,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -58,6 +186,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -65,6 +204,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -72,6 +222,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -79,6 +240,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -86,6 +258,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -93,6 +276,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -100,13 +294,35 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/15.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
     </image:image>
   </url>
   <url>
@@ -114,6 +330,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -121,6 +348,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -128,6 +366,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -135,6 +384,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -142,6 +402,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -149,6 +420,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -156,6 +438,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -163,6 +456,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -170,6 +474,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -177,6 +492,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -184,6 +510,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -191,6 +528,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -198,6 +546,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -205,6 +564,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -212,6 +582,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -219,6 +600,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -226,20 +618,53 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/33.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/34.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
     </image:image>
   </url>
   <url>
@@ -247,6 +672,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -254,6 +690,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -261,6 +708,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -268,6 +726,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -275,13 +744,35 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/40.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
     </image:image>
   </url>
   <url>
@@ -289,20 +780,63 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/42.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-separator-2.jpg</image:loc>
-      <image:title>金刚石选型机</image:title>
+      <image:title>氧化锆球分离设备</image:title>
+      <image:caption>氧化锆球分离设备细节</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-screening-machine.jpg</image:loc>
+      <image:title>氧化锆球筛选机</image:title>
+      <image:caption>氧化锆球筛选机设备照片</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-separator.jpg</image:loc>
+      <image:title>氧化锆球分离机</image:title>
+      <image:caption>氧化锆球分离机现场图</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-sorting-machine.jpg</image:loc>
+      <image:title>氧化锆球分选机</image:title>
+      <image:caption>氧化锆球分选机工作实拍</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/43.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-separator.jpg</image:loc>
-      <image:title>金刚石选型机</image:title>
+      <image:title>氧化锆球分离机</image:title>
+      <image:caption>氧化锆球分离机现场图</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-sorting-machine.jpg</image:loc>
+      <image:title>氧化锆球分选机</image:title>
+      <image:caption>氧化锆球分选机工作实拍</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-separator-2.jpg</image:loc>
+      <image:title>氧化锆球分离设备</image:title>
+      <image:caption>氧化锆球分离设备细节</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-screening-machine.jpg</image:loc>
+      <image:title>氧化锆球筛选机</image:title>
+      <image:caption>氧化锆球筛选机设备照片</image:caption>
     </image:image>
   </url>
   <url>
@@ -310,6 +844,12 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -317,6 +857,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
     </image:image>
   </url>
   <url>
@@ -324,13 +875,40 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/47.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-separator.jpg</image:loc>
-      <image:title>金刚石选型机</image:title>
+      <image:title>氧化锆球分离机</image:title>
+      <image:caption>氧化锆球分离机现场图</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-sorting-machine.jpg</image:loc>
+      <image:title>氧化锆球分选机</image:title>
+      <image:caption>氧化锆球分选机工作实拍</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-separator-2.jpg</image:loc>
+      <image:title>氧化锆球分离设备</image:title>
+      <image:caption>氧化锆球分离设备细节</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-screening-machine.jpg</image:loc>
+      <image:title>氧化锆球筛选机</image:title>
+      <image:caption>氧化锆球筛选机设备照片</image:caption>
     </image:image>
   </url>
   <url>
@@ -338,6 +916,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -345,6 +934,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -352,13 +952,35 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/51.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
     </image:image>
   </url>
   <url>
@@ -366,41 +988,117 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/53.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-separator.jpg</image:loc>
-      <image:title>金刚石选型机</image:title>
+      <image:title>氧化锆球分离机</image:title>
+      <image:caption>氧化锆球分离机现场图</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-separator-2.jpg</image:loc>
+      <image:title>氧化锆球分离设备</image:title>
+      <image:caption>氧化锆球分离设备细节</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-sorting-machine.jpg</image:loc>
+      <image:title>氧化锆球分选机</image:title>
+      <image:caption>氧化锆球分选机工作实拍</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-screening-machine.jpg</image:loc>
+      <image:title>氧化锆球筛选机</image:title>
+      <image:caption>氧化锆球筛选机设备照片</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/54.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/55.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/56.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/57.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-separator-2.jpg</image:loc>
-      <image:title>金刚石选型机</image:title>
+      <image:title>氧化锆球分离设备</image:title>
+      <image:caption>氧化锆球分离设备细节</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-screening-machine.jpg</image:loc>
+      <image:title>氧化锆球筛选机</image:title>
+      <image:caption>氧化锆球筛选机设备照片</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-separator.jpg</image:loc>
+      <image:title>氧化锆球分离机</image:title>
+      <image:caption>氧化锆球分离机现场图</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-sorting-machine.jpg</image:loc>
+      <image:title>氧化锆球分选机</image:title>
+      <image:caption>氧化锆球分选机工作实拍</image:caption>
     </image:image>
   </url>
   <url>
@@ -408,6 +1106,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -415,6 +1124,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -422,6 +1142,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -429,6 +1160,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -436,13 +1178,40 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/63.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-separator-2.jpg</image:loc>
-      <image:title>金刚石选型机</image:title>
+      <image:title>氧化锆球分离设备</image:title>
+      <image:caption>氧化锆球分离设备细节</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-screening-machine.jpg</image:loc>
+      <image:title>氧化锆球筛选机</image:title>
+      <image:caption>氧化锆球筛选机设备照片</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-separator.jpg</image:loc>
+      <image:title>氧化锆球分离机</image:title>
+      <image:caption>氧化锆球分离机现场图</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/zirconia-bead-sorting-machine.jpg</image:loc>
+      <image:title>氧化锆球分选机</image:title>
+      <image:caption>氧化锆球分选机工作实拍</image:caption>
     </image:image>
   </url>
   <url>
@@ -450,6 +1219,17 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
@@ -457,20 +1237,53 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/66.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/67.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
     </image:image>
   </url>
   <url>
@@ -478,27 +1291,71 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/69.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/70.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/71.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
     </image:image>
   </url>
   <url>
@@ -506,27 +1363,71 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/73.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/74.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/75.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
     </image:image>
   </url>
   <url>
@@ -534,27 +1435,71 @@
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/77.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/79.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.shunar.cn/post/80.html</loc>
     <image:image>
       <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/micro-beads-001-10mm.jpg</image:loc>
+      <image:title>金刚石微粉10mm颗粒</image:title>
+      <image:caption>金刚石微粉颗粒</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-shape-sorting-machine.jpg</image:loc>
+      <image:title>金刚石形状分选机</image:title>
+      <image:caption>金刚石形状分选机结构特写</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.shunar.cn/zb_users/upload/2026-08/diamond-sorting-machine.jpg</image:loc>
       <image:title>金刚石选型机</image:title>
+      <image:caption>工厂实拍金刚石选型机设备</image:caption>
     </image:image>
   </url>
 </urlset>
