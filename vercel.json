@@ -1,17 +1,9 @@
 {
-  "$schema": "https://openapi.vercel.sh/vercel.json",
   "redirects": [
     {
-      "source": "/index.html",
-      "destination": "/",
-      "permanent": true,
-      "statusCode": 308
-    },
-    {
-      "source": "/(.*)/index.html",
-      "destination": "/$1/",
-      "permanent": true,
-      "statusCode": 308
+      "source": "/:path*/index.html",
+      "destination": "/:path*",
+      "permanent": true
     }
   ]
 }
