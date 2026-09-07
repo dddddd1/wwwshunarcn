@@ -6,6 +6,12 @@
       "destination": "/",
       "permanent": true,
       "statusCode": 308
+    },
+    {
+      "source": "/(.*)/index.html",
+      "destination": "/$1/",
+      "permanent": true,
+      "statusCode": 308
     }
   ]
 }
